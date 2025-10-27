@@ -1,0 +1,4 @@
+project_id = "rptlgftkrkjnplpwvlhe"
+
+[functions.suggest-food]
+verify_jwt = false
